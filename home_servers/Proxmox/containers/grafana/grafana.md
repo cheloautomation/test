@@ -1,4 +1,6 @@
-![Grafana](./images/Grafana_logo.jpg)  # Grafana
+# Grafana
+
+![Grafana](./images/Grafana_logo.jpg)  
 
 ## Que es grafana?
 
